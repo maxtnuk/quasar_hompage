@@ -1,0 +1,35 @@
+{
+  "files": {
+    "app.js": "/quasar_hompage/static/js/app.b14b91ae.chunk.js",
+    "app.js.map": "/quasar_hompage/static/js/app.b14b91ae.chunk.js.map",
+    "runtime~app.js": "/quasar_hompage/static/js/runtime~app.7cdda23c.js",
+    "runtime~app.js.map": "/quasar_hompage/static/js/runtime~app.7cdda23c.js.map",
+    "static/js/2.9dc327f6.chunk.js": "/quasar_hompage/static/js/2.9dc327f6.chunk.js",
+    "static/js/2.9dc327f6.chunk.js.map": "/quasar_hompage/static/js/2.9dc327f6.chunk.js.map",
+    "fonts/Jura.ttf": "/quasar_hompage/./fonts/Jura.ttf",
+    "fonts/Raleway.ttf": "/quasar_hompage/./fonts/Raleway.ttf",
+    "index.html": "/quasar_hompage/index.html",
+    "manifest.json": "/quasar_hompage/manifest.json",
+    "serve.json": "/quasar_hompage/serve.json",
+    "static/js/2.9dc327f6.chunk.js.LICENSE.txt": "/quasar_hompage/static/js/2.9dc327f6.chunk.js.LICENSE.txt",
+    "static/media/blockchain_coin.jpg": "/quasar_hompage/static/media/blockchain_coin.96f9a4cf.jpg",
+    "static/media/interchain.png": "/quasar_hompage/static/media/interchain.bdc3e8c3.png",
+    "static/media/internet.jpg": "/quasar_hompage/static/media/internet.58136399.jpg",
+    "static/media/partner_bga.png": "/quasar_hompage/static/media/partner_bga.c214421b.png",
+    "static/media/partner_cloud.png": "/quasar_hompage/static/media/partner_cloud.6b99310a.png",
+    "static/media/partner_debricked.png": "/quasar_hompage/static/media/partner_debricked.cef4bab1.png",
+    "static/media/partner_digital_ocean.png": "/quasar_hompage/static/media/partner_digital_ocean.e43653ca.png",
+    "static/media/partner_dream_monkey.svg": "/quasar_hompage/static/media/partner_dream_monkey.cfc83515.svg",
+    "static/media/partner_ibl.svg": "/quasar_hompage/static/media/partner_ibl.2b18e6eb.svg",
+    "static/media/partner_jungle.png": "/quasar_hompage/static/media/partner_jungle.cd6ce545.png",
+    "static/media/partner_kalisio.png": "/quasar_hompage/static/media/partner_kalisio.3c95e95b.png",
+    "static/media/partner_project_finance.svg": "/quasar_hompage/static/media/partner_project_finance.a0d623c9.svg",
+    "static/media/partner_truelogic.png": "/quasar_hompage/static/media/partner_truelogic.c3e0027e.png",
+    "static/media/quasar.png": "/quasar_hompage/static/media/quasar.f0ac45f0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.7cdda23c.js",
+    "static/js/2.9dc327f6.chunk.js",
+    "static/js/app.b14b91ae.chunk.js"
+  ]
+}
